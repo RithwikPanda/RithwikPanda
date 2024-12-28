@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rithwik Panda</h1>
-<h3 align="center">A MERN Stack Developer</h3>
+<h3 align="center">A Devops Engineer and a Java Full Stack Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/rithwikpanda" target="blank"><img src="https://img.shields.io/twitter/follow/rithwikpanda?logo=twitter&style=for-the-badge" alt="rithwikpanda" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Devops Engineering and Full Stack Development with Java**
 
-- 💬 Ask me about **HTML5, CSS3, Tailwind CSS, JavaScript React.js, MySQL, MongoDB Express.js, REST APIs, Node.js, Redux.js Next.js, TypeScript, Data Structures and Algorithms, Object-Oriented Programming (OOP), Operating Systems, Computer Networks, Database Management System (DBMS), C++, Git, GitHub, Linux, Microsoft PowerPoint**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, Shell Scripting, VS Code, Eclipse, IntelliJ Idea, Git, GitHub, Bitbucket, Jenkins, Sonarqube, Nexus, JFrog Software,
+Maven, Gradle, Tomcat, Jira, Grafana, Prometheus.io, Amazon CloudWatch, Data Structures and Algorithms, Object-Oriented Programming (OOP), Operating Systems, Computer Networks, Database Management System (DBMS),Git, GitHub, J2EE Web Services, JavaServer Pages (JSP), Servlets, Java Database Connectivity (JDBC),
+MySQL, Hibernate, Microservices, Spring Security, Spring Framework, JSON Web Token (JWT), RESTful WebServices,
+REST APIs, Linux, Docker Products, Kubernetes, Elastic Stack (ELK), Terraform, Ansible, Spring MVC, Amazon Web
+Services (AWS), Amazon EC2, Amazon S3, Amazon Relational Database Service (RDS), Amazon DynamoDB, AWS
+Identity and Access Management (AWS IAM), Amazon VPC, AWS Elastic Beanstalk, Amazon Simple Notification Service
+(SNS), AWS Lambda, Amazon EFS, Amazon ECS, Amazon EKS, Amazon Route 53, Amazon CloudFront, React.js**
 
 - 📫 How to reach me **pandarithwik@gmail.com**
 
@@ -22,27 +27,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithwikpanda&show_icons=true&locale=en&layout=compact" alt="rithwikpanda" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
